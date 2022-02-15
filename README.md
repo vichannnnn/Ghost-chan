@@ -12,6 +12,10 @@ This repository contains the source code for Ghost-chan and some other random st
 
 The main feature you're probably looking for is in ghost.py!
 
+## NOTE
+
+Deprecated as of Q3 2021. Will remain in my GitHub as memoirs of my first "big" project. 
+
 
 
 
